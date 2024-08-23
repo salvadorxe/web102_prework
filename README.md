@@ -23,8 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Video Walkthrough](gif.gif)
 <a href="https://imgur.com/a/codepath-gif-ZzU1vcX"> link </a>
+<a href="https://imgur.com/a/5kS9FbS"> alt link </a>
 
 <!-- Replace this with whatever GIF tool you used! -->
 
@@ -38,6 +38,8 @@ GIF created with Kap.
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+- Uploading the video walkthrough. All my GIF recordings are too large. Imgur link won't work either.
 
 ## License
 
