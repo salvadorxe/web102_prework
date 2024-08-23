@@ -22,9 +22,8 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
-<a href="https://imgur.com/a/codepath-gif-ZzU1vcX"> link </a>
-<a href="https://imgur.com/a/5kS9FbS"> alt link </a>
+![Video Walkthrough](gif.gif)
+<a href="https://imgur.com/a/final-codepath-gif-HbUoAYZ"> link </a>
 
 <!-- Replace this with whatever GIF tool you used! -->
 
